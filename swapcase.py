@@ -1,0 +1,5 @@
+j=input("enter sentence:")
+m=j.replace(",",".")
+print(m)
+s=j.swapcase()
+print(s)
